@@ -1,4 +1,4 @@
-# An algorithmic tasks by Aleksei Ivasiuta and Denis Kolpakov
+# Algorithmic tasks by Aleksei Ivasiuta and Denis Kolpakov
 
 ## Usage
 
