@@ -1,5 +1,7 @@
 # Algorithmic tasks by Aleksei Ivasiuta and Denis Kolpakov
 
+Source: https://algorithmics-blog.github.io/
+
 ## Usage
 
 ### TypeScript
